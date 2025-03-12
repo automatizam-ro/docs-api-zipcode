@@ -146,7 +146,7 @@ curl -X GET "https://paulgabriel.dev/api/geocode.php?Judet=Bucuresti&Localitate=
 ### Example 2: Complete request
 
 ```bash
-curl -X GET "https://paulgabriel.dev/api/geocode.php?Judet=Cluj&Localitate=Cluj-Napoca&Strada=Eroilor&Nr=10&Tara=Romania"
+curl -X GET "https://paulgabriel.dev/api/geocode.php?Judet=Cluj&Localitate=Cluj-Napoca&Strada=Eroilor&Nr=10"
 ```
 
 ---
