@@ -40,7 +40,7 @@ curl -X GET "https://paulgabriel.dev/api/geocode.php?Judet=Bucuresti&Localitate=
 ### Exemplu 2: Cerere completă
 
 ```bash
-curl -X GET "https://paulgabriel.dev/api/geocode.php?Judet=Cluj&Localitate=Cluj-Napoca&Strada=Eroilor&Nr=10&Tara=Romania"
+curl -X GET "https://paulgabriel.dev/api/geocode.php?Judet=Cluj&Localitate=Cluj-Napoca&Strada=Eroilor&Nr=10"
 ```
 
 ---
